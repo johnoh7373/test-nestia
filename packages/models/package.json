@@ -1,7 +1,7 @@
 {
-  "name": "@${ORGANIZATION}/${PROJECT}-models",
+  "name": "@JB/test_nestia-models",
   "version": "0.0.0",
-  "description": "${PROJECT} ORM Models",
+  "description": "test_nestia ORM Models",
   "scripts": {
     "test": "node test"
   },
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/samchon/backend"
   },
-  "author": "${AUTHOR}",
+  "author": "Johnoh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/samchon/backend/issues"
